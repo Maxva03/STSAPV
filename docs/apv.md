@@ -29,7 +29,7 @@
 3. Als iemand op het eiland loopt zonder wapen vast, en niet in een scenario zit met een andere persoon/groepering, mag deze persoon niet vermoord worden. Dit word gezien als een ongeldige reden en zal worden bestraft volgens de 1e categorie.|
 
 ### Artikel 4 - Permissions abuse:
-1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van de 2e of 3e categorie.
+1. Het misbruiken van je f6 menu door bijvoorbeeld je als staff te opstellen (rdmers boeien etc.) of mensen te boeien die dat niet willen zal een straf opleveren van maximaal de 3e categorie.
 2. Noclippen in een gang huis van een officiële groepering zal een straf opleveren van de 1e categorie.
 
 ### Artikel 5 - Schelden met hedendaagse ziektes:
